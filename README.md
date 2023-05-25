@@ -15,7 +15,7 @@ Budsjett: 2x20 000,- => 40 000,-
 - LIS -> OSL: 2x2385,-
 
 **Togbilletter:**
-- Ca 1200,- for alle reiser
+- Ca 1200,- for alle reiser (OPO-FAO, 
 
 **Delsum:**
 *9148,-*
@@ -45,11 +45,15 @@ Reisedetaljer:
 Deretter:
 - Taxi fra flyplass til Dukes Corner Guest House
 
-### Tog til Algarve 4. august
+### Tog til Faro 4. august
 - Kan bestille tog 90 dager i forveien (6. mai)
 - Tiger skriver dette ned.
 
-### Tog til Lisboa 9. eller 10. august 
+## Bil eller tog videre til Lagos 05. august
+- Kan enten leie bil og kjøre eller ta tog hit fra Faro
+- Mulighet til å besøke Albufeira på veien?
+
+### Tog til Lisboa 9. august 
 - Kan bestille tog 90 dager i forveien (9-10. mai)
 
 
@@ -62,12 +66,10 @@ Reisedetaljer:
 Reiseplan:
 - Kjøre fra Oslo Søndag 13. august
 
-
 ## Porto
 Porto er den anstørste byen i Portugal og ligger nord i landet.
 Porto har en veldig gammel trikk. Trikken koster 5 euro hver vei.
 Det er veldig bratt i Porto, husk gode sko.
-
 
 ### Aktiviteter
 - Sightseeing (city life (wohoo!))
