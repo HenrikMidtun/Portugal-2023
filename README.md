@@ -45,7 +45,7 @@ Deretter:
 
 ### Tog til Algarve 4. august
 - Kan bestille tog 90 dager i forveien (6. mai)
-- Katrine skriver dette ned.
+- Tiger skriver dette ned.
 
 ### Tog til Lisboa 9. eller 10. august 
 - Kan bestille tog 90 dager i forveien (9-10. mai)
@@ -81,7 +81,7 @@ Det er veldig bratt i Porto, husk gode sko.
 - Drikke:
 	- Vinho Verde, søt og lettdrikkelig hvitvin
 	- 
-#### Note: Katrine er veldig skeptisk til Francesinha.
+#### Note: Tiger er veldig skeptisk til Francesinha.
 
 #### 1. Besøke vingård (Porto)
 
@@ -111,7 +111,7 @@ Regionen langs sørkysten av Portugal heter Algarve.
 - Pastel de nata
 
 ### Båttur er et must
-Helst på en seilbåt, eller en yacht (vi får se >:) - Katrine)
+Helst på en seilbåt, eller en yacht (vi får se >:) - Tiger)
 
 ### Surfing
 
