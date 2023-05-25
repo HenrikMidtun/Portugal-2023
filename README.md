@@ -1,8 +1,10 @@
 # Portugal-2023
 ![alt text](./porto.webp)
 Tur til **Portugal**!! med *tiger*. Bildet viser gamlebyen i Porto.
-### *Utreise: 30. juli*
-### *Hjemreise: 12. august*
+
+| <h2>Utreise</h2>  | <h2>Hjemreise</h2> | 
+| ------------- | ------------- |
+| <h3>30. juli</h3>  | <h3>12. august</h3>  |
 
 ## Økonomi
 Budsjett: 2x20 000,- => 40 000,-
